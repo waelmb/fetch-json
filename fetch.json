@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "model": "Charger",
+      "year": "1970",
+      "make": "Dodge",
+      "image": "images/charger.jpg"
+    },
+    {
+      "model": "Centenario",
+      "year": "2017",
+      "make": "Lamborghini",
+      "image": "images/centenario.jpg"
+    },
+    {
+      "model": "AMG E63s",
+      "year": "2017",
+      "make": "Mercedes-Benz",
+      "image": "images/e63.jpg"
+    }
+  ]
+}
